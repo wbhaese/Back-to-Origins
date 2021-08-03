@@ -1,4 +1,4 @@
-Program Pzim ;
+Program Basic Operations ;
 
 var
 	valA, valB, numChoice : integer;
